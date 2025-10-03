@@ -71,10 +71,6 @@ The project relies on the following Python libraries:
 - `db/`: Directory where user face data is stored
 - `log.txt`: File where attendance logs are stored
 
-## License
-
-[Include license information here]
-
 ## Acknowledgements
 
 - This project uses the [face_recognition](https://github.com/ageitgey/face_recognition) library
